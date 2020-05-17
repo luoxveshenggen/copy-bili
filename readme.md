@@ -42,3 +42,6 @@
 视频接口调用位于 pages/detail/detail.js
 原接口,视频详情页，视频一般获取不到视频，但id有效，作者、播放量可正确获取
 备用接口有缺陷，视频详情接口id无效，不论点击哪个视频，视频详情显示均为第一个视频信息
+
+可参考其他github项目
+https://github.com/yqxshiki/Wechat-applet-imitates-Bili
