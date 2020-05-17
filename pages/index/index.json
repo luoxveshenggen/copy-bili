@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "copy-bilibili",
+  "usingComponents":{
+    "MyTitle":"../../components/MyTitle/MyTitle"
+  }
+}
